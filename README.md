@@ -64,9 +64,6 @@ pip3 install numpy
 * [VSC](https://code.visualstudio.com/download) - IDLE: ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iafp613&theme=blue-green)
-
-
 ## Contributing 🖇️
 
 *Please leave me a star on my profile and / or follow me on social media, you help me to keep uploading more content.* 😊
