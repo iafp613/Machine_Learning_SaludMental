@@ -90,6 +90,6 @@ pip3 install numpy
 
 ## License 📄
 
-This project is under License (see the [LICENSE.md](LICENSE) file for more details)
+This project is under License (see the [LICENSE](LICENSE.md) file for more details)
 
 ---
