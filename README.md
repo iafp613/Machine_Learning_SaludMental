@@ -1,5 +1,5 @@
-<h1 align="center"> Mortalidad en España (de 1980 a 2019) - Proyecto individual de análisis exploratorio de datos.</h1>
-<p align="center"><img src="https://2.bp.blogspot.com/-EGspiXUOIHU/V45NH58rCII/AAAAAAAAAlE/5EEvO7A-WhYILmWhV5FBBFPxrlW9na0CwCLcB/s1600/final.jpg"/></p>
+<h1 align="center"> Mental Health - Individual machine learning project.</h1>
+<p align="center"><img src="https://chicagorealtor-12462.kxcdn.com/wp-content/uploads/2020/10/mentalwellness_articleCR.jpg"/></p>
 
 _In these confused times where epidemics, snowfalls, earthquakes and volcanoes have us with our souls in suspense; mental health takes on more important value than ever._
 
@@ -13,7 +13,7 @@ _The objective of this is not to propose a real solution as a productive model, 
 
 _Thanks in advance for getting here, I hope you like it and if so or if you have any suggestions, follow me on social media! It is appreciated._
 
-![GitHub watchers](https://img.shields.io/github/watchers/iafp613/projects_tb?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/iafp613/Machine_Learning_SaludMental?style=social)
 
 
 ## Starting 🚀
